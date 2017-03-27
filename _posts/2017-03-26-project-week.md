@@ -1,12 +1,10 @@
 ---
-title: TheReviewIndex | Unbiased User Review Summaries | Monochrome
-description: This is an introduction to thereviewindex.com.
-header: TheReviewIndex | Unbiased User Review Summaries
+title: Project Week | APIs, SQL and Heroku
+description: Closing in on 301 project week
+header: Project Week | APIs, SQL and Heroku
 ---
 
 The internet is a source of a humongous amount of unstructured content for all sorts of products, in the form of blogs, videos, user and expert reviews, etc. It is almost impossible for anyone to scour all of this disparate data, with contradictory opinions, and thereafter make a correct, or at least optimal, purchase decision.
-
-I'm adding a paragraph here to see what it does! :) Let's make another change.
 
 Generally, the main problem any average consumer faces while trying to research products online is that there are too many sites with far too much information, and there is typically a disparity in the various opinions expressed. Also, it is not easy to differentiate between what is genuine, and what isn’t.
 
