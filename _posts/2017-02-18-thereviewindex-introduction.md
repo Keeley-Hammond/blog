@@ -6,6 +6,8 @@ header: TheReviewIndex | Unbiased User Review Summaries
 
 The internet is a source of a humongous amount of unstructured content for all sorts of products, in the form of blogs, videos, user and expert reviews, etc. It is almost impossible for anyone to scour all of this disparate data, with contradictory opinions, and thereafter make a correct, or at least optimal, purchase decision.
 
+I'm adding a paragraph here to see what it does! :)
+
 Generally, the main problem any average consumer faces while trying to research products online is that there are too many sites with far too much information, and there is typically a disparity in the various opinions expressed. Also, it is not easy to differentiate between what is genuine, and what isn’t.
 
 To help resolve these issues, [The Review Index](https://thereviewindex.com) has launched its discovery and research engine, which simplifies the process of researching products online. It scours various sources on the internet, and mines opinions and reviews for the products. This information is then presented as a unified, unbiased, feature-wise summary scorecard of the aggregate opinion to the end user.
