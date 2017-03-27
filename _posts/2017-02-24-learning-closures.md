@@ -19,3 +19,15 @@ My experience, in a nutshell, went like this:
 7. Fantasy vs Reality (pooping out questions)
 8. Show how the two functions overlap and time out (hit over length)
 9. Success!
+
+So let's take a look at how we got started. The first thing I tried to write was a for loop with an event handler inside of it - we'd loop through the five questions, and the user could answer each one. Easy, right?:
+{% highlight javascript linenos %}
+
+  for (var i = 0; i < arr.length; i++) {
+    var temp = arr[i];
+    var randomSwapIndex = numGen(i, arr.length);
+    arr[i] = arr[randomSwapIndex];
+    arr[randomSwapIndex] = temp;
+  }
+
+{% endhighlight %}
