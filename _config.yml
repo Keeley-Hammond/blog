@@ -1,64 +1,39 @@
-# Mandatory settings
+# Site settings
+title: Keeley's Blog
+description: "A minimal, responsive, ready to use blog template, built with Jekyll."
+url: "http://www.dyutibarma.github.io/monochrome"
+author:
+  name: Keeley Hammond
+  email: "keeleymhammond@gmail.com"
+  url: "https://keeleyhammond.com"
 
-name: Keeley's Blog
-paginate: 25
-url: # add your site url (format: http://example.com/)
-blog_theme: dark # Or use dark
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
 
-# Optional settings
-
-about_enabled: false # Change to true if you wish to show an icon in the navigation that redirects to the about page
-discus_identifier: # Add your Disqus identifier
-ga_analytics: # Add your GA Tracking Id
-local_fonts: false # Change to true if you wish to use local fonts
-rss_enabled: true # Change to false if not
-social:
-  dribbble: # Add your Dribbble handle
-  facebook: # Add your Facebook handle
-  flickr: # Add your Flickr handle
-  github: vertedinde
-  linkedin: # Add your LinkedIn handle
-  twitter: keeleyhammond
-  email: keeleymhammond@gmail.com
-  bitcoin: # Add your Bitcoin link or address
-
-# Important settings (change at own risk)
-
-assets:
-  features:
-    automatic_img_size: false
-  sources:
-    - _assets/bower
-    - _assets/fonts
-    - _assets/images
-    - _assets/javascripts
-    - _assets/stylesheets
-    - _vendor/
-collections:
-  my_tags:
-    output: true
-    permalink: /tag/:slug/
+# Default values
 defaults:
   -
     scope:
       path: ""
-      type: my_tags
+      type: "posts"
     values:
-      layout: articles_by_tag
-exclude:
-  - .bowerrc
-  - .travis.yml
-  - bin/*
-  - bower.json
-  - circle.yml
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - vendor/
+      layout: "post"
+
+# Plugins
 gems:
-  - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-  - jemoji
-paginate_path: "/posts/page/:num/"
-permalink: posts/:slug
+
+# Custom variables
+version: "1.0.0"
+
+# Options
+custom_header: true
+custom_nav_footer: true
+reverse: false
