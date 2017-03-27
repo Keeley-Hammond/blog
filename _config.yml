@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: Keeley's Blog
 description: "A minimal, responsive, ready to use blog template, built with Jekyll."
@@ -37,3 +38,6 @@ version: "1.0.0"
 custom_header: true
 custom_nav_footer: true
 reverse: false
+=======
+theme: jekyll-theme-minimal
+>>>>>>> 30e9a6af7a96efcc97263f4bf26618e1fbab5c2a
