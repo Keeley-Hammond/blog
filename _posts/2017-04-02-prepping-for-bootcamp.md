@@ -9,7 +9,7 @@ Since starting at Code Fellows, I've done fairly well in the course work. I've f
 My classmates and I have spoken a lot about the things that we'd wish we'd known before coming to the bootcamp, and specifically, the things that we wish we'd done. While it's fresh in my mind, I want to put down a few thoughts about ome concrete things that you can do to prepare for your code bootcamp, if it's something you're thinking of doing:
 
 ## What to Expect
-A lot of coding bootcamps that I researched (including Code Fellows) promise to take students from zero to software engineer in about four months. Frankly, I think that's horsesh*t and I'm going to emphasize this as much as I can:
+A lot of coding bootcamps that I researched (including Code Fellows) promise to take students from zero to software engineer in about four months. Frankly, I think that's nonsense and I'm going to emphasize this as much as I can:
 
 **Do not come into a coding bootcamp if you have never coded before.**
 
@@ -41,4 +41,8 @@ I'd really recommend building and maintaining a personal site or blog, to help y
 ### 3. Write down your goals.
 
 This is going to seem like the fluffiest prep item, and the one that's easiest to ignore. Don't.
+
+---
+
+Coming to Code Fellows is one of the best decisions that I've ever made. But it's important to come in with clear eyes; do your prep work and you'll find your bootcamp experience will be a heck of a lot more managable.
 

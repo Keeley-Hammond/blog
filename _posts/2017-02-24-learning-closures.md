@@ -10,7 +10,7 @@ I'm sure most people already know what closures are and how they work, but for a
 
 My experience, in a nutshell, went like this:
 
-1. {Intended Audience, JS Level, Purpose}
+1. Write code that allows a possible one to four users to answer five questions, in succession, with responses that signal whether or not they answered the question correctly only after all of the users have finished their turns.ßß
 2. Needed to get five questions with four answers each (one correct) to user
 3. Tried a for loop; didn’t work. What now?
 4. Decided to stick to question[0] and question[1]
