@@ -22,7 +22,7 @@ We created a site for Chinese tea enthusiasts, called GongFuChaTea.org. *Gong fu
 * Using Maps vs Places API to find relevant store information
 * 
 
-## Postgres DB
+### Postgres DB
 I've really enjoyed working with Node and writing the ajax calls and traces needed to communicate between the client and server. Using a database for our actual project was a stretch goal, as SQL and Heroku's DB add-ons weren't something that we really covered in class. However, I really wanted to try it and my teammates (all smart, curious and good sports) were very game.
 
 
