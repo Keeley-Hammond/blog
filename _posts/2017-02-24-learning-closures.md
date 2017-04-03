@@ -1,5 +1,5 @@
 ---
-title: Learning Closures
+title: Learning Closures The Hard Way
 description: A beginner's experience with a complicated JS topic.
 header: Learning Closures
 tags: javascript, Code Fellows, learning
