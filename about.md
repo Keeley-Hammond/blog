@@ -4,20 +4,9 @@ title: About Keeley
 description: This page describes monochrome.
 ---
 ## About
-Monochrome is a minimal, responsive theme created for Jekyll. The goal of Monochrome is to provide a ready to use, plug and play theme for those who want to set up a blog, and focus solely on the content.
+Keeley Hammond is a software engineer currently living in Portland, Oregon. She serves on the leadership team for the Portland chapter of Women Who Code, where she focused on creating and teaching programming curriculum that helps beginners start contributing to OSS. She enjoys developing across the stack, speaking at conferences, baking, long-distance running, and hacking away on interesting problems. Keeley primarily works with JavaScript, Node, React, Python, and Angular. She has strong opinions about open source, accessibility, promises (the callback kind), testing, and static websites.
 
-## Features
-
-- Completely responsive and mobile first
-- Clean SEO friendly URLs, auto-generated from post title (no messy dates in the url)
-- SEO title/description integration
-- Sitemap ready
-- Easy customization for header, footer, navigation links, colors, favicon etc
-- Default Monochrome Color Palette - black, white, greys
-
-### Setup
-
-Hello!
+When not coding, she enjoys running through the mountains of the Columbia Gorge, experimenting and learning new ways to route Internet traffic, and listening to podcasts about American history.
 
 
 
