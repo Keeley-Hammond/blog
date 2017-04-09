@@ -32,9 +32,9 @@ $text-dark-color: #000000;
 
 html {
 	background-color: $background-color;
-	font-size: 16px;
+	font-size: 20px;
 	@media (min-width: 940px) {
-		font-size: 18px;
+		font-size: 22px;
 	}
 	line-height: 1.5;
 	color: $text-color;
