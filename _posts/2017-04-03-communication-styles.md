@@ -1,7 +1,7 @@
 ---
-title: Speaking to Think | Communicating during Pairing Sessions
+title: Communicating with Different Learning Styles
 description: The folks learning in our bootcamp have many different learning styles.
-header: Communicating during Pairing Sessions with Different Learning Styles
+header: Communicating with Different Learning Styles
 ---
 
 I come from a background in management consulting; during my tenure at this firm, we used several abstractions that we called "tools" to encapsulate ways that teams of people could better understand each other and communicate more effectively.
