@@ -1,11 +1,8 @@
 ---
-title: Speaking to Think | Communicating during Pairing Sessions
+title: Communicating with Different Learning Styles
 description: The folks learning in our bootcamp have many different learning styles.
-header: Communicating during Pairing Sessions with Different Learning Styles
+header: Communicating with Different Learning Styles
 ---
-![Test](/img/img-test.png "Test")
-
-## Learning Styles
 
 I come from a background in management consulting; during my tenure at this firm, we used several abstractions that we called "tools" to encapsulate ways that teams of people could better understand each other and communicate more effectively.
 
@@ -42,5 +39,3 @@ It's rare that people are purely one way or another in how they process informat
 Working in tech is a very stressful environment, and I've noticed that these patterns of behavior will get especially pronounced under stress. If I'm working on a very difficult problem, I've caught myself doing a very bad job of communicating with my partner - I'll start changing code, trying to break things and testing different syntax, leaving my partner wondering what the hell I'm doing or thinking. Conversely, I may stop entirely and say nothing for a long period of time or give a distracted response because I'm very deep in my own head trying to solve one part of a problem - while my partner is trying to solve a different problem entirely.
 
 Communication hiccups are normal during a pairing session, especially with two junior developers trying to solve an advanced problem. What I find helpful is to look for these triggers, and remind myself to take 30 seconds to communicate clearly and explain that any reactions I might be having are from my learning style, and not a deficiency of my partner.
-
-For example: 
