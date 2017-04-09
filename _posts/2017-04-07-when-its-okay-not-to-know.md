@@ -8,3 +8,4 @@ One of the reasons I started writing this blog was to remember how it felt to le
 
 This is why I'm going to sound like an idiot sometimes on this blog, or write things that are overly simplified or just plain wrong, or write bad code in my code samples. I'm okay with that. I want to look back and remember how it felt to be a beginner garbage coder, so I can better help myself and other people in the future.
 
+And I want to talk about one thing in particular:
