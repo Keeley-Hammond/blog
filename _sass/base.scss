@@ -3,6 +3,7 @@
  */
 
 /*- Base reset -*/
+@import url('https://fonts.googleapis.com/css?family=Cardo|Pathway+Gothic+One');
 
 * {
   -webkit-box-sizing: border-box;
@@ -31,9 +32,9 @@ $text-dark-color: #000000;
 
 html {
 	background-color: $background-color;
-	font-size: 16px;
+	font-size: 20px;
 	@media (min-width: 940px) {
-		font-size: 18px;
+		font-size: 22px;
 	}
 	line-height: 1.5;
 	color: $text-color;
