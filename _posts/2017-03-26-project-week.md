@@ -20,12 +20,11 @@ We created a site for Chinese tea enthusiasts, called GongFuChaTea.org. *Gong fu
 ### Google Maps API
 * Synchronizing address formats to accomodate China, Taiwan, Hong Kong and Spain
 * Using Maps vs Places API to find relevant store information
-* 
 
 ### Postgres DB
 I've really enjoyed working with Node and writing the ajax calls and traces needed to communicate between the client and server. Using a database for our actual project was a stretch goal, as SQL and Heroku's DB add-ons weren't something that we really covered in class. However, I really wanted to try it and my teammates (all smart, curious and good sports) were very game.
 
-
-
 ### Mobile Design
 Designing with "mobile first" in mind seems incredibly smart and snappy - until you remember that you're using the desktop view as your default for tests, and that all of the painstaking CSS work you just completed was all for the desktop.
+
+We just presented our project, and are meeting this weekend to plot out how we're going to continue to grow it after launch. Can't wait to start my first project as a maintainer!
