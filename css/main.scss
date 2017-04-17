@@ -4,3 +4,14 @@
 
 //Import
 @import "base", "mixin", "typography", "layout", "syntax.scss", "custom.scss";
+
+/*- Link -*/
+a {
+	color: #00B7AB;
+	text-decoration: 1 px dashed #00B7AB;
+	font-weight: 700;
+	&:hover,
+	&:focus {
+		color: darken($text-color, 5%);
+	}
+}
