@@ -3,7 +3,7 @@ title: This Week
 description: Happy Monday!
 header: This Week
 ---
-![Etsy Donut Shoes](https://keeleyhammond.github.io/blog/img/donut-shoes.jpg)
+![Etsy Donut Shoes](https://keeley-hammond.github.io/blog/img/donut-shoes.jpg)
 [*Photo Credit: shophazelandbean*](https://www.etsy.com/listing/264707711/donut-shoes-lace-ups-colorful-fun-quirky?ref=market)
 
 Happy Monday!

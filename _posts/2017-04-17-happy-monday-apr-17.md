@@ -10,7 +10,7 @@ I had a very nice weekend spent debugging some asynch issues for the open source
 
 I also went for a long hike on Sunday, ending with some beers at pFriem:
 
-![Easter Hike](https://keeleyhammond.github.io/blog/img/easter.JPG)
+![Easter Hike](https://keeley-hammond.github.io/blog/img/easter.JPG)
 
 Anyway, let's get down to what's going on this week:
 
