@@ -10,7 +10,7 @@ I had a very nice weekend spent debugging some asynch issues for the open source
 
 I also went for a long hike on Sunday, ending with some beers at pFriem:
 
-![Easter Hike](../blog/img/easter.JPG)
+![Easter Hike](https://keeleyhammond.github.io/blog/img/easter.JPG)
 
 Anyway, let's get down to what's going on this week:
 
@@ -19,7 +19,7 @@ Anyway, let's get down to what's going on this week:
 If you're in PDX tech:
 * [Tues, 4/18: Donut.js April Meetup @ 6:00p!](https://donutjs.club/) DonutJS had some great speakers this week; hit up me or Women Who Code PDX if you want a ticket.
 * [Thurs, 4/20: PDX Empower with Women Who Code.]()
-* [Tues, 4/25: Intro to Git and GitHub](https://www.meetup.com/Women-Who-Code-Portland/events/239020608/) I’m hosting an evening Intro to Git and GitHub class for Women Who Code Portland, taught by Scott and Grace Andrews as part of our Beginner's Guide to Open Source series. I can’t wait to help some awesome people make their first pull requests.
+* [Tues, 4/25: Intro to Git and GitHub](https://www.meetup.com/Women-Who-Code-Portland/events/239020608/) I’m hosting an evening Intro to Git and GitHub class for Women Who Code Portland, taught by Scott Hanselman and Grace Andrews as part of our Beginner's Guide to Open Source series. I can’t wait to help some awesome people make their first pull requests.
 
 ### Non-Tech Events: 
 
