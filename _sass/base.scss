@@ -49,7 +49,7 @@ body {
 /*- Link -*/
 a {
 	color: #00B7AB;
-	text-decoration: none;
+	text-decoration: 1 px dashed #00B7AB;
 	font-weight: 700;
 	&:hover,
 	&:focus {
