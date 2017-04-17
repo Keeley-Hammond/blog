@@ -10,8 +10,7 @@ I had a very nice weekend spent debugging some asynch issues for the open source
 
 I also went for a long hike on Sunday, ending with some beers at pFriem:
 
-![Etsy Donut Shoes](../img/donut-shoes.jpg)
-[*Photo Credit: shophazelandbean*](https://www.etsy.com/listing/264707711/donut-shoes-lace-ups-colorful-fun-quirky?ref=market)
+![Easter Hike](blog/img/easter.JPG)
 
 Anyway, let's get down to what's going on this week:
 
@@ -24,7 +23,7 @@ If you're in PDX tech:
 
 ### Non-Tech Events: 
 
-* [Tuesday is 6:30p @ The Commons Brewery](https://www.meetup.com/PDX-Trail-Runners/events/239092563/) and 
+* [Portland Running Company has an awesome Thirsty Thursday 4-6 mile run @ 6:00p](https://www.meetup.com/PDX-Trail-Runners/events/239092563/), led by Mark Remy. Come run with us; the first round of beers is on them.
 * My trail running group, PDX Trail Runners, is holding a group run this [Saturday at 9:00a @ Forest Park, on the Lower MacLeay Park entrance](https://www.meetup.com/PDX-Trail-Runners/events/237741875/). If you need a kick in the butt to get back in shape, come run with us.
 
 ### Articles
@@ -34,6 +33,6 @@ Here are a few articles I’ve enjoyed over the past week — give yourself a li
 * [Listened to this week's Changelog and heard about Kent C Dodd's awesome "First Timer's Only" open source guide.](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) It's an oldie, but a goodie. He created easy PRs and marked them "first timers only", encouraging new coders to contribute.
 * Slack Engineering wr0te up a good explanation of Typescript and how/why they're using it:[TypeScript at Slack.](https://slack.engineering/typescript-at-slack-a81307fa288d) I didn't realize that Slack was almost entirely Javascript-based.
 * Big fan of JS Party on the Changlog, and particularly enjoyed this discussion on Mastodon (the service) and Node bots: [JavaScript Fatigue, AMP, and Paths.js](https://changelog.com/jsparty/7)
-* Not an article, but I really like watching Suz Hilton's Node livestreams, where she codes in real time.[NoopKat: Experimenting with the Fitbit API](https://www.twitch.tv/videos/136030831)
+* Not an article, but I really like watching Suz Hilton's Node livestreams, where she codes in real time. Here's her latest one from Sunday: [NoopKat, Experimenting with the Fitbit API](https://www.twitch.tv/videos/136030831)
 
 Have a great week, everybody!
