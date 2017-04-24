@@ -27,12 +27,14 @@ If you're in PDX tech:
 
 ### Articles
 
-Here are a few articles I’ve enjoyed over the past week — give yourself a little mental boost on your Monday morning:
+Here are a few articles, podcasts and assorted things that I’ve enjoyed over the past week — give yourself a little mental boost on your Monday morning:
 
 * [Listened to old JS Party podcasts on my long run and loved this one about Glitch.](https://changelog.com/jsparty/2) I've been hearing a lot about Glitch, but I think Jenn Schiffer has the best explanation of what it is and what you can do with it. I built a little Node TwitterBot over the weekend with it!
-* Claire Pollard wrote a great article about caring for yourself while coding over, and the tools that you can use to help step back: [Coding with Care.](https://dev.to/thetuftii/coding-with-care) The Tiny Care Terminal is adorable; I downloaded it and started using it this weekend. One of my teachers is a big fan of the Pomodoro method, and I think this foils nicely with it.
-* Not an article, but AlterConf Portland has just started selling tickets! I'm extremely grateful to Ashe Dryden and AlterConf - I won my scholarship to Code Fellows at AlterConf last year. If you're in Portland, please attend and support: [AlterConf Tickets and Event Info](https://alterconf.com/conferences/portland-or-2017)
-* Big fan of JS Party on the Changlog, and particularly enjoyed this discussion on Mastodon (the service) and Node bots: [VM Neutrality in Node.js (N-API), Learning JavaScript, and Mastodon](https://changelog.com/jsparty/7)
+* I keep seeing articles pop up about [Prettier, an "opinionated" Javascript formatter.](https://github.com/prettier/prettier) It formats and removes all original styling and ensures that all outputted JavaScript conforms to a consistent style - a bit beyond something that a linter like ES Lint would do. Haven't tried it yet, but curious to hear what people think.
+* [Claire Pollard wrote a great article about pacing yourself and the tools that you can use to help step back: Coding with Care.](https://dev.to/thetuftii/coding-with-care) The Tiny Care Terminal is adorable; I downloaded it and started using it this weekend. One of my teachers is a big fan of the Pomodoro method, and I think this foils nicely with it.
+* Finally, not an article, but [AlterConf Portland has just started selling tickets!](https://alterconf.com/conferences/portland-or-2017) I'm extremely grateful to Ashe Dryden and AlterConf - I won my scholarship to Code Fellows at AlterConf last year. If you're in Portland, please attend and support: [AlterConf Tickets and Event Info](https://alterconf.com/conferences/portland-or-2017)
 
 
-Have a great week, everybody!
+Have a great week, everybody.
+
+![Sunday Hike](https://keeley-hammond.github.io/blog/img/starvation-ridge.JPG)
