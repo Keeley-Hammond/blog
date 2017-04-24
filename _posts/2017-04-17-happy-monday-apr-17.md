@@ -31,9 +31,9 @@ If you're in PDX tech:
 Here are a few articles I’ve enjoyed over the past week — give yourself a little mental boost on your Monday morning:
 
 * [Listened to this week's Changelog and heard about Kent C Dodd's awesome "First Timer's Only" open source guide.](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) It's an oldie, but a goodie. He created easy PRs and marked them "first timers only", encouraging new coders to contribute.
-* Slack Engineering wr0te up a good explanation of Typescript and how/why they're using it: [TypeScript at Slack.](https://slack.engineering/typescript-at-slack-a81307fa288d) I didn't realize that Slack was almost entirely Javascript-based.
-* Big fan of JS Party on the Changlog, and particularly enjoyed this discussion on Mastodon (the service) and Node bots: [VM Neutrality in Node.js (N-API), Learning JavaScript, and Mastodon](https://changelog.com/jsparty/7)
-* Not an article, but I really like watching Suz Hilton's Node livestreams, where she codes in real time. Here's her latest one from Sunday: [NoopKat, Experimenting with the Fitbit API](https://www.twitch.tv/videos/136030831)
+* Slack Engineering wrote up a good explanation of Typescript and how/why they're using it: [TypeScript at Slack.](https://slack.engineering/typescript-at-slack-a81307fa288d) I didn't realize that Slack was almost entirely Javascript-based.
+* Big fan of JS Party on the Changlog, and particularly enjoyed this discussion on Mastodon (the service) and Node bots: [VM Neutrality in Node.js (N-API), Learning JavaScript, and Mastodon.](https://changelog.com/jsparty/7)
+* Not an article, but I really like watching Suz Hilton's Node livestreams, where she codes in real time. Here's her latest one from Sunday: [NoopKat, Experimenting with the Fitbit API.](https://www.twitch.tv/videos/136030831)
 
 
 Have a great week, everybody!
