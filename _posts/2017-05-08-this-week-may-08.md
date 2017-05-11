@@ -10,7 +10,7 @@ Here's what's going on in Portland this week:
 
 ### Events
 
-![Second Story Networking Night](https://keeley-hammond.github.io/blog/img/networking-night-may-2017.JPG)
+![Second Story Networking Night](https://keeley-hammond.github.io/blog/img/networking-night-may-2017.jpg)
 
 If you're in PDX tech:
 * [Thurs, 5/11: Women Who Code Networking Night @ Second Story.](https://www.meetup.com/Women-Who-Code-Portland/events/236510126/) We're hosting our monthly networking night at Second City this week. Second City will lead workshops on prototyping, technical collaboration and an improv event! Come for the lightning talks, stay for the drinks, company and events.
