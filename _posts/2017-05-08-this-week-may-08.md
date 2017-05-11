@@ -10,8 +10,10 @@ Here's what's going on in Portland this week:
 
 ### Events
 
+![Second Story Networking Night](https://keeley-hammond.github.io/blog/img/networking-night-may-2017.JPG)
+
 If you're in PDX tech:
-* [Thurs, 5/11: Women Who Code Networking Night @ Second Story.](https://www.eventbrite.com/e/tech-jobs-tour-portland-career-fair-tech-demos-speed-mentoring-tickets-32954309226) We're hosting our monthly networking night at Second City this week. Second City will lead workshops on prototyping, technical collaboration and an improv event! Come for the lightning talks, stay for the drinks, company and events.
+* [Thurs, 5/11: Women Who Code Networking Night @ Second Story.](https://www.meetup.com/Women-Who-Code-Portland/events/236510126/) We're hosting our monthly networking night at Second City this week. Second City will lead workshops on prototyping, technical collaboration and an improv event! Come for the lightning talks, stay for the drinks, company and events.
 * [Thurs, 5/11: PDX Node Presentation Night @ Vacasa.](https://www.meetup.com/pdxnode/events/239220711/) PDX Node is awesome - very beginner friendly, with a lot of Nodesters willing to work with you on [nodeschool.io tutorials](https://nodeschool.io/#workshopper-list). Come and see what people have been working on.
 * [Wed, 5/17: Intro to Git and GitHub @ Mozilla.](https://www.meetup.com/Women-Who-Code-Portland/events/239020608/) I’m hosting the second class of our Intro to Git and GitHub class for Women Who Code Portland, taught by Scott Hanselman and Grace Andrews. Seats available!
 * [Fri, 5/19: Women Who Code Roll Call @ PyCon.](https://www.meetup.com/Women-Who-Code-Portland/events/237905872/) PyCon starts next week! Come have breakfast with fellow programmers before the talks and workshops get started on Friday. 
@@ -33,4 +35,4 @@ Here are a few articles, podcasts and assorted things that I’ve enjoyed over t
 * A quick bump for [AlterConf Portland, which has just started selling tickets.](https://alterconf.com/conferences/portland-or-2017) I'm extremely grateful to Ashe Dryden and AlterConf - I won my scholarship to Code Fellows at AlterConf last year. If you're in Portland, please attend and support: [AlterConf Tickets and Event Info](https://alterconf.com/conferences/portland-or-2017)
 
 
-Have a great week, everybody.
+Have a great week, everybody!
